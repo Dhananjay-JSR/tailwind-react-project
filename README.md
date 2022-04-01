@@ -4,7 +4,7 @@ Dependency Used :- React , Tailwind , Fontawesome
 Hooks Used :- Custom Create ( ScrollBarHook)
 
 
-The Project is Also Hosted on Vercel Platform
+The Project is Also Hosted on [Vercel](https://tailwind-react-project.vercel.app/) Platform
 
 
 
