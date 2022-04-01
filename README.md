@@ -1,4 +1,4 @@
-# Reason Clone Suing React and Tailwind as per demand
+# Reason Clone Using React and Tailwind as per demand
 
 Dependency Used :- React , Tailwind , Fontawesome 
 Hooks Used :- Custom Create ( ScrollBarHook)
