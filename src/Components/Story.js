@@ -1,4 +1,5 @@
 import React from "react";
+import storyShape from '../assets/story-shape.png'
 
 function Story() {
   return (
@@ -31,7 +32,7 @@ function Story() {
               ></img>
               <img
                 className="absolute -top-6 left-40 z-10"
-                src="https://reasonbeyond.com/wp-content/uploads/2020/08/story-shape.png"
+                src={storyShape}
               ></img>
             </div>
             <div className="m-8 text-xs font-sans font-light">

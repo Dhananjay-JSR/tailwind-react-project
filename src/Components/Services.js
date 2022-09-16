@@ -1,5 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import grp101 from '../assets/Group_101.png'
 import React from "react";
 
 function Services() {
@@ -1521,7 +1522,7 @@ function Services() {
             </div>
           </div>
           <div className="absolute bottom-0 right-0 z-10">
-            <img alt="decorator" src="https://reasonbeyond.com/wp-content/uploads/2020/08/Group_101.png"></img>
+            <img alt="decorator" src={grp101}></img>
           </div>
         </div>
       </div>

@@ -1,4 +1,6 @@
 import React from "react";
+import agencyHero from '../assets/agency-hero-dots.png'
+import twoLayer from '../assets/2-layers.png'
 
 function HeadLine() {
   return (
@@ -28,7 +30,7 @@ function HeadLine() {
           <img
             className="absolute  top-[1rem] left-16"
             alt="Decoration"
-            src="https://reasonbeyond.com/wp-content/uploads/2020/08/agency-hero-dots.png"
+            src={agencyHero}
           ></img>
           <img
             className="rounded-full z-[1] relative"
@@ -38,7 +40,7 @@ function HeadLine() {
           <img
             className="absolute top-[26rem] z-10 left-16"
             alt="Decoration"
-            src="https://reasonbeyond.com/wp-content/uploads/2020/08/2-layers.png"
+            src={twoLayer}
           ></img>
         </div>
       </div>
